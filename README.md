@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PHANT044M/SSPECTRA-AUDIO-LAB/releases/latest/download/SSPECTRA.AUDIO.LAB.v1.0.exe">
+  <a href="https://github.com/PHANT044M/SSPECTRA-AUDIO-LAB/releases/latest/download/SSPECTRA.AUDIO.LAB.exe">
     <img src="https://img.shields.io/badge/Download_Portable-EXE-bb86fc?style=for-the-badge&logo=windows&logoColor=white" alt="Download Portable EXE" />
   </a>
 </p>
