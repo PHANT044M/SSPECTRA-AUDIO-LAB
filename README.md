@@ -9,7 +9,7 @@
 
 # 💿 SSPECTRA AUDIO LAB v1.0 [EN]
 
-> Developed & Secured by **PHANT044M // PHANTOM NETWORK**
+> Developed & Secured by **PHANT044M // SSPECTRA MUSIC**
 
 **SSPECTRA AUDIO LAB** is an integrated desktop studio environment (audio workstation companion) designed for sound designers, beatmakers, music producers, and loop creators. It provides comprehensive mass-editing of audio metadata, recursive file analysis, and intelligent library deconstruction with high cross-platform compatibility.
 
@@ -69,7 +69,7 @@ An intelligent sorting engine to reorganize messy sample packs, one-shots, and l
 ## 🛠️ Installation & Compilation
 
 ### Standalone Portable EXE (Recommended)
-Download the precompiled `SSPECTRA AUDIO LAB v1.0.exe` directly from the [Releases](https://github.com/ВАШ_ГИТХАБ/ИМЯ_РЕПОЗИТОРИЯ/releases) section. The program is fully portable—simply launch it on your Windows PC.
+Download the precompiled `SSPECTRA AUDIO LAB.exe` directly from the [Releases](https://github.com/PHANT044M/SSPECTRA-AUDIO-LAB/releases) section. The program is fully portable—simply launch it on your Windows PC.
 
 ### Running from Source
 Requires Python **3.11** or higher.
@@ -102,7 +102,7 @@ Join the **PHANTOM NETWORK** ecosystem, share layouts, and stay up to date:
 
 # 💿 SSPECTRA AUDIO LAB v1.0 [RU]
 
-> Разработано и защищено: **PHANT044M // PHANTOM NETWORK**
+> Разработано и защищено: **PHANT044M // SSPECTRA MUSIC**
 
 **SSPECTRA AUDIO LAB** — это интегрированная рабочая среда (звуковой комбайн) для саунд-дизайнеров, битмейкеров, музыкальных продюсеров и loop-мейкеров. Программа создана для профессионального массового управления метаданными аудиофайлов, рекурсивного анализа и интеллектуальной сортировки звуковых библиотек с высокой кросс-платформенной совместимостью.
 
@@ -162,7 +162,7 @@ Join the **PHANTOM NETWORK** ecosystem, share layouts, and stay up to date:
 ## 🛠️ Установка, запуск и компиляция
 
 ### Портативный запуск (Рекомендуется)
-Скачайте готовый скомпилированный файл `SSPECTRA AUDIO LAB v1.0.exe` в разделе [Releases](https://github.com/ВАШ_ГИТХАБ/ИМЯ_РЕПОЗИТОРИЯ/releases) репозитория. Программа является полностью портативной — просто запустите её на вашем ПК с Windows без установки дополнительных библиотек.
+Скачайте готовый скомпилированный файл `SSPECTRA AUDIO LAB.exe` в разделе [Releases](https://github.com/PHANT044M/SSPECTRA-AUDIO-LAB/releases) репозитория. Программа является полностью портативной — просто запустите её на вашем ПК с Windows без установки дополнительных библиотек.
 
 ### Запуск из исходного кода
 Для запуска программы из исходников вам понадобится Python версии **3.11** или выше.
