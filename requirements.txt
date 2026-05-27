@@ -1,0 +1,4 @@
+customtkinter
+mutagen
+Pillow
+tkinterdnd2
