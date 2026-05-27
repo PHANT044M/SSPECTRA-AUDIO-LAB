@@ -1,5 +1,3 @@
-# 💿 SSPECTRA AUDIO LAB v1.0
-
 <p align="center">
   <a href="#-sspectra-audio-lab-v10-en">English Edition</a> •
   <a href="#-sspectra-audio-lab-v10-ru">Русская версия</a>
